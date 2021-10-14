@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Nobel economics prize awarded for real-life studies",
+            "description": "David Card, Joshua D Angrist and Guido W Imbens share the prestigious economics prize.",
+            "url": "http://www.bbc.co.uk/news/business-58870395",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16D48/production/_121021539_gettyimages-1228804768.jpg",
+            "publishedAt": "2021-10-11T11:07:22.6195712Z",
+            "content": "Image source, Getty Images\r\nDavid Card, Joshua Angrist and Guido Imbens have been awarded this year's Nobel prize for economics.\r\nThe trio shared the prize for their use of \"natural experiments\" to u… [+1866 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "US couple accused of selling nuclear submarine secrets",
+            "description": "A US Navy nuclear engineer and his wife allegedly sold the secret data to an undercover FBI agent.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-58863678",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4C69/production/_121016591_161214-n-cc918-004.jpg",
+            "publishedAt": "2021-10-11T10:37:22.5129275Z",
+            "content": "Image source, US Navy/Thiep Van Nguyen II\r\nImage caption, The couple allegedly tried to sell secrets about US nuclear submarines to a foreign government\r\nA US navy nuclear engineer and his wife have … [+1990 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Paul McCartney says John Lennon 'instigated' the Beatles' break-up",
+            "description": "\"It was John who wanted a divorce,\" he says, setting the record straight on the band's break-up.",
+            "url": "http://www.bbc.co.uk/news/entertainment-arts-58868557",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/51B3/production/_116151902_maccapajpg.jpg",
+            "publishedAt": "2021-10-11T10:22:22.1303156Z",
+            "content": "By Mark SavageBBC Music Correspondent\r\nImage caption, Sir Paul McCartney rejected the received wisdom that he broke up the Beatles by suing them in court\r\nFor almost 50 years, Sir Paul McCartney has … [+2673 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "The race to save California’s sequoia trees",
+            "description": "Tourists flock to California’s famous sequoia trees, but wildfires are threatening their existence.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-58849637",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2F77/production/_121015121_p09y61ds.jpg",
+            "publishedAt": "2021-10-11T07:22:22.6914332Z",
+            "content": "Tourists flock to see Californias famous sequoia trees, but record-breaking wildfires, driven by higher temperatures and extreme drought, have threatened the existence of these natural wonders."
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Climate change: Prince Charles sympathetic to protesters' anger",
+            "description": "The Prince of Wales tells the BBC he sympathises with protesters - but any action must be constructive.",
+            "url": "http://www.bbc.co.uk/news/science-environment-58847456",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1E47/production/_121015770_justin-hrh.jpg",
+            "publishedAt": "2021-10-11T05:37:26.8051953Z",
+            "content": "By Justin RowlattBBC News climate editor\r\nImage caption, Prince Charles described theGlasgowclimate conferencelater this month as \"a last chance saloon\"\r\nPrince Charles has told the BBC he understand… [+6553 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "China floods: Nearly 2 million displaced in Shanxi province",
+            "description": "Rainfall may have been heavier than the Henan floods in July and rescue efforts remain a major challenge.",
+            "url": "http://www.bbc.co.uk/news/world-asia-china-58866854",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B64F/production/_121017664_gettyimages-1235777767.jpg",
+            "publishedAt": "2021-10-11T05:07:22.5213733Z",
+            "content": "Image source, Getty Images\r\nImage caption, Heavy and prolonged rainfall and storms are further hampering rescue efforts.\r\nMore than 1.76 million people have been affected by severe flooding in China'… [+2148 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Stealthing: California bans non-consensual condom removal",
+            "description": "Victims of \"stealthing\" risk sexually transmitted infections and pregnancy. Now they can sue offenders.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-58848000",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13D4E/production/_121003218_stealthing-index3.jpg",
+            "publishedAt": "2021-10-11T04:52:22.298907Z",
+            "content": "By Holly Honderich &amp; Shrai PopatBBC News, Washington\r\nImage source, Getty Images/BBC\r\nAbout 30 years ago, just months after starting work as a prostitute, Maxine Doogan became pregnant. \r\nShe had… [+6584 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Covid Australia: Sydney celebrates end of 107-day lockdown",
+            "description": "Australia's biggest city passed a key vaccination target, allowing people to enjoy new freedoms.",
+            "url": "http://www.bbc.co.uk/news/world-australia-58866464",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BFAF/production/_121017094_gettyimages-1345900983.jpg",
+            "publishedAt": "2021-10-11T02:22:26.0251878Z",
+            "content": "Image caption, Australia's most populous state has reached a 70% vaccination target for over-16s\r\nThe Australian city of Sydney has emerged from lockdown after almost four months, with locals celebra… [+2337 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Epstein: Met to take no further action after review",
+            "description": "The review was prompted by Virginia Giuffre's legal action in the US against the Duke of York.",
+            "url": "http://www.bbc.co.uk/news/uk-58866108",
+            "urlToImage": "https://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1",
+            "publishedAt": "2021-10-11T01:22:25.2042005Z",
+            "content": "Image caption, Jeffrey Epstein was found dead in his prison cell while awaiting trial for sex-trafficking charges\r\nThe Metropolitan Police will not take any further action following a review prompted… [+1831 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Drugs, arms, and terror: A high-profile defector on Kim's North Korea",
+            "description": "A former colonel describes a leadership making cash by any means, from drug factories to illegal arms deals.",
+            "url": "http://www.bbc.co.uk/news/world-asia-58838834",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5BCC/production/_121000532_02.jpg",
+            "publishedAt": "2021-10-10T23:22:24.1705503Z",
+            "content": "By Laura BickerBBC News, Seoul\r\nImage caption, In a 30-year career, Kim Kuk-song rose to the top ranks of North Korea's powerful spy agencies\r\nThe old habits of secrecy haven't left Kim Kuk-song.\r\nIt… [+14146 chars]"
+        }
+    ]
+}
